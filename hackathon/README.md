@@ -8,8 +8,8 @@ Welcome to the Mini-Hackathon session! This document covers the full-day agenda,
 
 > All times listed in SGT (Singapore Time) and AEDT (Australian Eastern Daylight Time).
 
-| SGT | AEDT | Duration | Activity | Description / Notes | Facilitator |
-|-----|------|----------|----------|---------------------|-------------|
+| SGT | AEDT | Duration | Activity | Description / Notes | Content Owner / PIC |
+|-----|------|----------|----------|---------------------|---------------------|
 | 08:00 – 08:30 | | 30 mins | Early Setup | We can arrive by 8am | |
 | 08:30 – 09:00 | 11:30 – 12:00 | 30 mins | Set-up / Final Preparation | Final tech check, participant arrival | Event Team |
 | 09:00 – 09:15 | 12:00 – 12:15 | 15 mins | Senior Leaders Kickoff | Welcome remarks and workshop objectives | Yu Yi, Ruchi |
@@ -21,8 +21,8 @@ Welcome to the Mini-Hackathon session! This document covers the full-day agenda,
 | 13:15 – 13:45 | 16:15 – 16:45 | 30 mins | Claude Code Workshop *(Wrapup + How to Facilitate)* | Claude Code workshop — Part 2 | Riebeeck V. |
 | 13:45 – 14:15 | 16:45 – 17:15 | 45 mins | How to Facilitate Hackathon / Start Mini-Hackathon | Guidance on running the hackathon session | Caroline M. |
 | 14:15 – 14:45 | 17:15 – 17:45 | 15 mins | Afternoon Break | Afternoon refreshment break | |
-| 14:45 – 15:45 | 17:45 – 18:45 | 60 mins | Mini-Hackathon | Participants work on challenge tasks | Caroline M. |
-| 15:45 – 16:00 | 18:45 – 19:00 | 15 mins | Mini-Hackathon Judging | Review and scoring of submissions | Caroline M. |
+| 14:45 – 15:15 | 17:45 – 18:15 | 60 mins | Mini-Hackathon | Participants work on challenge tasks | Caroline M. |
+| 15:15 – 16:00 | 18:15 – 19:00 | 15 mins | Mini-Hackathon Judging | Review and scoring of submissions | Caroline M. |
 | 16:00 – 16:15 | 19:00 – 19:15 | 15 mins | Closing & Discussion | Key takeaways, reflections, and open discussion | All Facilitators |
 | 16:15 – 17:00 | 19:15 – 20:00 | | Post-event / Networking | Optional informal networking | |
 
@@ -30,7 +30,7 @@ Welcome to the Mini-Hackathon session! This document covers the full-day agenda,
 
 ## Mini-Hackathon Brief
 
-**Duration:** 60 minutes (14:45 – 15:45 SGT)
+**Duration:** 60 minutes (14:45 – 15:15 SGT / 17:45 – 18:15 AEDT)
 
 **Objective:** Use Claude Code to build a meaningful improvement or new feature on top of the [inventory-management](https://github.com/beck-source/inventory-management) starter app (or your own project, if agreed with your facilitator).
 
@@ -185,7 +185,7 @@ Your `submission.html` is a **single self-contained HTML file** that acts as a p
 4. Open a Pull Request to this repository with the title: `Submission: Team N — Your Hackathon Name`
 5. A facilitator will merge your PR before judging begins
 
-> **Deadline:** All PRs must be open before the judging session starts at **15:45 SGT**.
+> **Deadline:** All PRs must be open before the judging session starts at **15:15 SGT**.
 
 ---
 
